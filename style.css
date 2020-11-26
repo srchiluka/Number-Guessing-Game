@@ -1,0 +1,9 @@
+#container {
+  display: flex;
+  flex-flow: column wrap;
+  text-align: center;
+}
+
+body {
+  background-color:cyan;
+}
